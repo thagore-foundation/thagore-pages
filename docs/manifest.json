@@ -1,0 +1,16 @@
+[
+  "about/thanks",
+  "getting-started/installation",
+  "getting-started/quickstart",
+  "getting-started/tour",
+  "index",
+  "language/error-handling",
+  "language/functions",
+  "language/loops",
+  "language/types",
+  "stdlib/collections",
+  "stdlib/io",
+  "stdlib/overview",
+  "tooling/cli-reference",
+  "tooling/package-manager"
+]
