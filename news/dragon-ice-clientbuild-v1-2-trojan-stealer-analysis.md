@@ -3,7 +3,7 @@ title: Phân tích dragon_ice_clientbuildV1.2 – Trojan/Stealer với cơ chế
 titleEn: Analysis of dragon_ice_clientbuildV1.2 – A Trojan/Stealer with Multi-layer Persistence
 excerpt: Báo cáo phân tích kỹ thuật mẫu file dragon_ice_clientbuildV1.2 cho thấy hành vi drop payload, giả mạo Windows service, thiết lập persistence nhiều lớp và đánh cắp dữ liệu trình duyệt.
 excerptEn: This report provides a technical analysis of dragon_ice_clientbuildV1.2, revealing payload dropping, Windows service masquerading, multi-layer persistence, and browser data theft behaviors.
-date: 2025-12-30
+date: 30-12-2025
 author: Thagore Security Team
 tags: ["malware-analysis", "trojan", "stealer", "windows", "persistence", "pyinstaller", "incident-response"]
 image: /content/baocao_malware.png
